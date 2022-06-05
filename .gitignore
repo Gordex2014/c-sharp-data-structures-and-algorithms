@@ -635,4 +635,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# VsCode
+.vscode/*
+
 # End of https://www.toptal.com/developers/gitignore/api/csharp,dotnetcore,jetbrains,rider,linux,windows,macos
